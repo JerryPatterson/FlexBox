@@ -70,5 +70,5 @@ frontpage.php
 				<h3>Box 1</h3>
 				<p>Mustche cred 3 wolf moon, shabby chic, flannel<button>d</button> </p>
 			</div>
-		</div>
+		</div><!-- /.containr -->
 <?php get_header(); ?>
