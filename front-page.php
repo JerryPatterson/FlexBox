@@ -33,7 +33,7 @@ frontpage.php
 		<div class="container">
 			<div class="item-1 item">
 				Item 1
-				<p>Mustche cred 3 wolf moon</p>
+				<p>Mustche Credo</p>
 			</div>
 			</div>
 	</section>
