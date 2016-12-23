@@ -1,0 +1,30 @@
+/**
+  * Main Styles Import Contents
+    * Variables
+    * Section Styles
+    * Custom Content Styles
+*/
+
+/**
+  * Sass Variables
+  */
+$black: #222;
+$white: #fff;
+$gray: #ddd;
+$purp: #9443e0;
+$eee: #eee;
+$body: #fafafa;
+
+/**
+  * Section Styles
+  */
+
+section,
+article {
+  padding: 40px 0;
+  margin: 20px 0;
+}
+
+/**
+  * Custom Content Styles
+  */
